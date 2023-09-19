@@ -1,0 +1,3 @@
+detergent = int(input())
+
+
